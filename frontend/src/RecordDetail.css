@@ -1,0 +1,48 @@
+.record-detail {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .record-detail h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .record-detail p {
+    font-size: 1rem;
+    color: #555;
+    margin: 10px 0;
+  }
+  
+  .record-detail strong {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .record-detail .error {
+    color: red;
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  
+  .record-detail button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .record-detail button:hover {
+    background-color: #0056b3;
+  }
+  
